@@ -1,10 +1,11 @@
 {
   "name": "datecomposer",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "main": "index.js",
   "author": "arunshaw",
   "license": "ISC",
+  "repository": "https://github.com/Arun-ez/datecomposer",
   "keywords": [
     "date",
     "time",
